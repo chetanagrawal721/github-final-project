@@ -1,0 +1,4 @@
+$ git branch -v
+  bug-fix-revert b0a769b Revert "Fix copyright year typo in README"
+  bug-fix-typo   ca80d7f Fix copyright year typo in README
+* main           587828f Add merge_branches output
